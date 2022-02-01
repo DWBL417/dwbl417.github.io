@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在自然之中，人心就像花朵。   
+title: 在自然之中，人心就像花朵   
 category: blog
 description: 02-01-2022 | 写于大年初一
 ---
