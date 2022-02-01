@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 中国行政区域为何称作「省」？   
+title: 中国行政区域为何称作「省」   
 category: dump
 description: 01-29-2022 | 《中国历代政治得失》读书笔记
 ---
