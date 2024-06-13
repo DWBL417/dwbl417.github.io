@@ -1,0 +1,37 @@
+I"�<h1 id="生成ssh密钥">生成SSH密钥</h1>
+
+<pre><code>ssh-keygen -t ed25519 -C "example"
+</code></pre>
+
+<p>如果使用的是不支持 Ed25519 算法的旧系统</p>
+
+<pre><code>ssh-keygen -t rsa -b 4096 -C "example"
+</code></pre>
+
+<p>重命名为/home/user/.ssh/id_xxx</p>
+
+<p>将 SSH 密钥添加到 ssh-agent</p>
+
+<pre><code>ssh-add ~/.ssh/id_xxx
+</code></pre>
+
+<p>复制公钥keys</p>
+
+<pre><code>cat ~/.ssh/id_ed25519.pub
+</code></pre>
+
+<p>把专用密钥添加到 ssh-agent 的高速缓存中：</p>
+
+<pre><code>ssh-add ~/.ssh/id_xxx
+</code></pre>
+
+<p>从ssh-agent中删除密钥：</p>
+
+<pre><code>ssh-add -d ~/.ssh/id_xxx.pub
+</code></pre>
+
+<p>查看ssh-agent中的密钥：</p>
+
+<pre><code>ssh-add -l
+</code></pre>
+:ET

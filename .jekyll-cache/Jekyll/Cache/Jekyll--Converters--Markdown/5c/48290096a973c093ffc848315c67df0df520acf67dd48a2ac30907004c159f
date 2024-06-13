@@ -1,0 +1,68 @@
+I"�	<div class="index-content blog">
+    <div class="section">
+        <ul class="artical-cate">
+            <li class="on"><a href="/"><span>Blog</span></a></li>
+            <li style="text-align:center"><a href="/dump"><span>Dump</span></a></li>
+            <li style="text-align:right"><a href="/project"><span>Project</span></a></li>
+        </ul>
+
+        <div class="cate-bar"><span id="cateBar"></span></div>
+
+        <ul class="artical-list">
+        
+            <li>
+                <h2><a href="/snow-night">下雪的夜晚</a></h2>
+                <div class="title-desc">03-18-2022 | 窗外一片朦胧，冬季仿佛再次降临，在不该出现的季节</div>
+            </li>
+        
+            <li>
+                <h2><a href="/like-a-flower">在自然之中，人心就像花朵</a></h2>
+                <div class="title-desc">02-01-2022 | 写于大年初一</div>
+            </li>
+        
+            <li>
+                <h2><a href="/happy-new-year">新年快乐</a></h2>
+                <div class="title-desc">01-16-2022 | 新年第一篇</div>
+            </li>
+        
+            <li>
+                <h2><a href="/eve">仁者无敌</a></h2>
+                <div class="title-desc">06-03-2020 | 毕竟西湖六月中，风光不与四时同</div>
+            </li>
+        
+            <li>
+                <h2><a href="/qingming-festival">清明节</a></h2>
+                <div class="title-desc">04-04-2020 | 春草明年绿，王孙归不归</div>
+            </li>
+        
+            <li>
+                <h2><a href="/Zoo">动物园内</a></h2>
+                <div class="title-desc">03-15-2020 | 过昭关</div>
+            </li>
+        
+            <li>
+                <h2><a href="/castle">城堡</a></h2>
+                <div class="title-desc">02-10-2020 | 草长莺飞二月天</div>
+            </li>
+        
+            <li>
+                <h2><a href="/Wuhan">除夕，除夕</a></h2>
+                <div class="title-desc">01-25-2020 | 过去的不被遗忘</div>
+            </li>
+        
+            <li>
+                <h2><a href="/2019-nCov">无形的「口罩」</a></h2>
+                <div class="title-desc">01-22-2020 | 病毒肆虐的一月</div>
+            </li>
+        
+            <li>
+                <h2><a href="/written-in-2020">写在2020</a></h2>
+                <div class="title-desc">01-04-2020 | New year, happy or not.</div>
+            </li>
+        
+        </ul>
+    </div>
+    <div class="aside">
+    </div>
+</div>
+:ET

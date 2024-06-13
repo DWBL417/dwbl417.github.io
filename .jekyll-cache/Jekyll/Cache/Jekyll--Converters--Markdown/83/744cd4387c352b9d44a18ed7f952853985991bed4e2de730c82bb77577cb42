@@ -1,0 +1,82 @@
+I"l
+<div class="index-content project">
+    <div class="section">
+        <ul class="artical-cate">
+            <li><a href="/"><span>Blog</span></a></li>
+            <li style="text-align:center"><a href="/dump"><span>Dump</span></a></li>
+            <li class="on" style="text-align:right"><a href="/project"><span>Project</span></a></li>
+        </ul>
+
+        <div class="cate-bar"><span id="cateBar"></span></div>
+
+        <ul class="artical-list">
+        
+            <li>
+                <h2>
+                    <a href="/jekyll">Blog之Jekyll本地化生成Blog</a>
+                </h2>
+                <div class="title-desc">06-13-2024 | Jekyll</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/git">Blog之利用Github tokens免密码更新Blog</a>
+                </h2>
+                <div class="title-desc">06-13-2024 | git tokens</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/SSH">Ubuntu之SSH生成密钥</a>
+                </h2>
+                <div class="title-desc">06-13-2024 | ssh</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/mpv-hot-key">MPV 快捷键</a>
+                </h2>
+                <div class="title-desc">03-28 | MPV Hot key.</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/deal-with-a-frozen-linux">Linux 卡死解决方法</a>
+                </h2>
+                <div class="title-desc">03-28 | 3 ways to deal with a frozen linux.</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/terminal-hot-key">Terminal 快捷键</a>
+                </h2>
+                <div class="title-desc">03-15 | Terminal Hot key.</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/receive-sms">Receive SMS</a>
+                </h2>
+                <div class="title-desc">01-22 | virtual number.</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/right-way-to-select-mask">The right way to select medical mask</a>
+                </h2>
+                <div class="title-desc">01-19 | For commuters during lunar new year.</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/how-to-backup-linux">How to backup automatically with Timeshift</a>
+                </h2>
+                <div class="title-desc">01-16 | never forget backup.</div>
+            </li>
+        
+        </ul>
+    </div>
+    <div class="aside">
+    </div>
+</div>
+:ET

@@ -1,0 +1,47 @@
+I"�<h2 id="拉取rep">拉取rep</h2>
+
+<pre><code>git pull
+</code></pre>
+
+<h2 id="提交rep">提交rep</h2>
+
+<pre><code>cd ~/Documents/dwbl417.github.io  
+
+git add .  
+
+git status 
+
+git commit -m "git"
+
+git push
+</code></pre>
+
+<h2 id="git-push免输密码">git push免输密码</h2>
+
+<pre><code>cd ~
+
+touch .git-credentials
+
+vim .git-credentials
+</code></pre>
+
+<p>添加https://用户名:<em>your token</em>@github.com</p>
+
+<pre><code>git config --global credential.helper store
+</code></pre>
+
+<p>打开~/.gitconfig文件，会发现多了一项:</p>
+
+<p>[credential]</p>
+
+<p>helper = store</p>
+
+<h3 id="生成口令token">生成口令token</h3>
+
+<pre><code>github settings
+
+develop settings
+
+personal access tokens
+</code></pre>
+:ET

@@ -1,0 +1,46 @@
+I"<div class="index-content dump">
+    <div class="section">
+        <ul class="artical-cate">
+            <li><a href="/"><span>Blog</span></a></li>
+            <li class="on" style="text-align:center"><a href="/dump"><span>Dump</span></a></li>
+            <li style="text-align:right"><a href="/project"><span>Project</span></a></li>
+        </ul>
+
+        <div class="cate-bar"><span id="cateBar"></span></div>
+
+        <ul class="artical-list">
+        
+            <li>
+                <h2>
+                    <a href="/the-origin-of-SHENG">中国行政区域为何称作「省」</a>
+                </h2>
+                <div class="title-desc">01-29-2022 | 《中国历代政治得失》读书笔记</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/win10-business-key">win10 企业版密钥</a>
+                </h2>
+                <div class="title-desc">03-28 | 数字激活工具HWIDGen</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/network-is-unreachable">网站打不开等一锤子问题</a>
+                </h2>
+                <div class="title-desc">03-15 | 网络触不可及</div>
+            </li>
+        
+            <li>
+                <h2>
+                    <a href="/virtual-private-network">为什么我不推荐你使用免费VPN</a>
+                </h2>
+                <div class="title-desc">02-10 | Ctrl+A</div>
+            </li>
+        
+        </ul>
+    </div>
+    <div class="aside">
+    </div>
+</div>
+:ET

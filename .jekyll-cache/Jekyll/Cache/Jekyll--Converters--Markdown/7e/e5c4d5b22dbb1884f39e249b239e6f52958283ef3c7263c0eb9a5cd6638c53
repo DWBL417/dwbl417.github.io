@@ -1,0 +1,10 @@
+I"¯<p>sudo apt-get install ruby-full</p>
+
+<p>sudo gem install jekyll</p>
+
+<p>sudo gem install jekyll bundler</p>
+
+<p>cd ~/Documents/dwbl417.github.io</p>
+
+<p>jekyll serve -w</p>
+:ET
