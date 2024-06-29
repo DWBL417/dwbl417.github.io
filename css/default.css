@@ -94,13 +94,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .blog .aside{
-    background-image:url(https://i.loli.net/2020/01/05/yw28JqUpPcDeAXK.jpg);
+    background-image:url(/images/home.jpg);
 }
 .dump .aside{
-    background-image:url(https://i.loli.net/2020/01/05/m1qeJ25zOxMfQP6.png);
+    background-image:url(/images/dump.png);
 }
 .project .aside{
-    background-image:url(https://i.loli.net/2020/01/05/z1A6Ix9NJwvWm4y.png)
+    background-image:url(/images/project.png)
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
