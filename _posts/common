@@ -1,0 +1,42 @@
+ls -l -R ./
+rm -rf ./
+mkdir ./
+mv ./ ./
+
+pkill -f jekyll
+sudo ps -ef |grep v2ray 
+sudo kill -9 PID
+
+54114
+
+netstat -apn | grep 80  53,80,110,143,443,465,587,993,995,
+
+vim ~/.bashrc
+source ~/.bashrc
+
+chmod root grop user 4=read+2=write+1=execute 
+chmod 644 Everyone can read, only owner can write
+      755: Only owner can write, read and execute for everyone
+
+
+DNS
+vim /etc/resolv.conf
+
+GOOGLE PINYIN
+im-config
+fcitx-configtool
+
+export socks_proxy=socks5://127.0.0.1:2333
+export socks_proxy=socks5://127.0.0.1:7890
+
+apt install lrzsz
+rz
+sz
+tar -xvzf fliename
+-x 解压
+-v 日志
+-z gz格式
+-f file 接文件名
+-J xz格式
+dpkg -i *.deb
+
